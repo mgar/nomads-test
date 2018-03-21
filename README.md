@@ -1,6 +1,7 @@
 # NOMADS DEVOPS TEST
 
 # What do you need before start coding? 
+* a fork of this repository
 * a Free Tier AWS account
 
 # The Test
